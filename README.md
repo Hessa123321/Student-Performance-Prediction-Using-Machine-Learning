@@ -3,7 +3,7 @@
 1. Hessa ALhozaimy (ID: 444200799)
 2. Joudy Alnounou (ID: 444200139)
 3. Showq Alhadlaq (ID: 444204111)
-4. Duna Alnujaidy (ID: 444200589)
+4. Duna Alnujaidi (ID: 444200589)
 5. Najd Albabtain (ID: 444201076)
 
 ### Motivation:
