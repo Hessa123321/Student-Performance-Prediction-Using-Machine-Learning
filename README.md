@@ -1,8 +1,8 @@
 #  Project Title: Student-Performance-Prediction-Using-Machine-Learning
 ## Group Members:
 1. Hessa ALhozaimy (ID: 444200799)
-2. Joudy Alnounu (ID: 444200139)
-3. Shouq Alhadlaq (ID: 444204111)
+2. Joudy Alnounou (ID: 444200139)
+3. Showq Alhadlaq (ID: 444204111)
 4. Duna Alnujaidy (ID: 444200589)
 5. Najd Albabtain (ID: 444201076)
 
